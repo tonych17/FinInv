@@ -1,4 +1,4 @@
-# Introduction to Financial Investment 2022
+# Introduction to Financial Investments 2022
 
 You can use the [editor on GitHub](https://github.com/tonych17/Inv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -46,9 +46,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-## Introduction to Financial Investment
-
-
 
 ## Syllabus
 
@@ -77,7 +74,7 @@ TA:
 
 
 ## Previous Exams:
-[Exam 2021]()
+[Exam 2021](https://github.com/tonych17/Inv/blob/840c9dc1e307300cdf7138307e28a00a6e4de67c/Exam%202021.pdf)
 
 
 ## Text Books
