@@ -64,7 +64,7 @@ TA: 高飞：2020 CFA, xxx: 2020 金融
 * 期末考试：40%
 
 ## Project
-* Catch up on Elon Musk’s Tweets
+* Dogecoin: Catch up on Elon Musk’s Tweets
 * Luckin coffee scandal
 * 2015 Chinese stock market crash
 * PESTLE analysis of China
