@@ -80,9 +80,9 @@ TA: 高飞：2020 CFA, xxx: 2020 金融
 
 
 ## Text Books
-* 吴晓求. 证券投资学（第五版）, 中国人民大学出版社, 2020, ISBN: 9787300278155.
-* 曹凤岐, 刘力, 姚长辉. 证券投资学（第三版）, 北京大学出版社, 2013, ISBN: 9787301229699.
-* Bodie, Kane and Marcus. Investments, 12th edition, McGraw-Hill, 2021, ISBN: 9781260013832.
+* 吴晓求. [证券投资学（第五版）](https://book.douban.com/subject/35001854/), 中国人民大学出版社, 2020, ISBN: 9787300278155.
+* 曹凤岐, 刘力, 姚长辉. [证券投资学（第三版）](https://book.douban.com/subject/25784846/), 北京大学出版社, 2013, ISBN: 9787301229699.
+* Bodie, Kane and Marcus. [Investments](https://book.douban.com/subject/35638046/), 12th edition, McGraw-Hill, 2021, ISBN: 9781260013832.
 
 
 
