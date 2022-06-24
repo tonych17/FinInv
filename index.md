@@ -1,4 +1,6 @@
-# Introduction to Financial Investments 2022
+# Welcome to Financial Investments 2022
+
+## Introduction to Financial Investments 2022
 
 You can use the [editor on GitHub](https://github.com/tonych17/Inv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
