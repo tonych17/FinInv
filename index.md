@@ -53,7 +53,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## Contact
 Instructors: 王元月、[张同辉](mailto:zth@ouc.edu.cn)
 
-TA:
+TA: 高飞：2020 CFA, xxx: 2020 金融
 
 
 
