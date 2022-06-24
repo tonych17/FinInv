@@ -42,7 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-
+<a href="Exams/Exam 2021.pdf" target="_blank">Exam 2021</a>
 
 
 
