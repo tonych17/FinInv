@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Introduction to Financial Investment 2022
 
 You can use the [editor on GitHub](https://github.com/tonych17/Inv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -54,7 +54,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 ## Contact
-Instructors: 王元月、[张同辉](mailto: zth@ouc.edu.cn)
+Instructors: 王元月、[张同辉](mailto:zth@ouc.edu.cn)
+
 TA:
 
 
