@@ -35,3 +35,64 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
+
+
+
+## Introduction to Financial Investment
+
+
+
+## Syllabus
+
+
+## Contact
+Instructors: 王元月、[张同辉](mailto: zth@ouc.edu.cn)
+TA:
+
+
+
+## Performance Assessment
+* 课堂参与度：20%
+* 随堂测验：20%
+* 小组报告：20%
+  * 课堂展示: 10%
+  * 研究报告: 10%
+* 期末考试：40%
+
+## Project
+* Catch up on Elon Musk’s Tweets
+* Luckin coffee scandal
+* 2015 Chinese stock market crash
+* PESTLE analysis of China
+* SWOT analysis of LEGO
+
+
+## Previous Exams:
+[Exam 2021]()
+
+
+## Text Books
+* 吴晓求. 证券投资学（第五版）, 中国人民大学出版社, 2020, ISBN: 9787300278155.
+* 曹凤岐, 刘力, 姚长辉. 证券投资学（第三版）, 北京大学出版社, 2013, ISBN: 9787301229699.
+* Bodie, Kane and Marcus. Investments, 12th edition, McGraw-Hill, 2021, ISBN: 9781260013832.
+
+
+
+
+
+
+
+
+
+
+
+
+
