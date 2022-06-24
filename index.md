@@ -42,12 +42,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-<a href="Exams/Exam 2021.pdf" target="_blank">Exam 2021</a>
-
-
-
-
-
 
 ## Syllabus
 
@@ -78,7 +72,7 @@ TA: 高飞：2020 CFA, xxx: 2020 金融
 
 
 ## Previous Exams:
-[Exam 2021](https://github.com/tonych17/Inv/blob/840c9dc1e307300cdf7138307e28a00a6e4de67c/Exam%202021.pdf)
+[Exam 2021](https://github.com/tonych17/Inv/raw/gh-pages/Exams/Exam%2021.pdf)
 
 
 ## Text Books
