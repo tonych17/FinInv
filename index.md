@@ -72,7 +72,9 @@ TA: 高飞：2020 CFA, xxx: 2020 金融
 
 
 ## Previous Exams:
-[Exam 2021](https://github.com/tonych17/Inv/raw/gh-pages/Exams/Exam%2021.pdf)
+[Exam 2021](Exams/Exam2021.pdf)
+
+
 
 
 ## Text Books
