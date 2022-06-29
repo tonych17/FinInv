@@ -20,10 +20,10 @@ TA: 高飞：2020 CFA, xxx: 2020 金融
 ## Performance Assessment
 |REQUIREMENTS|PERCENTAGE|
 |:--|:--|
-|Regular attendance and class participation|	20%|
-|Quizzes| 	20%|
-|Group assignments|    	20%|
-|Final examination| 	40%|
+|Regular attendance and class participation|20%|
+|Quizzes|20%|
+|Group assignments|20%|
+|Final examination|40%|
 
 ## EXAMS
 Both quizzes and final exams are closed-book and closed-notes. Quizzes will be given after each section, and the final will be given during the scheduled final examination date.
@@ -80,19 +80,23 @@ Please work in a group of one to five students when preparing these topics. Each
 * Chapter 1: 证券投资工具
 * Chapter 2: 证券市场
 * Chapter 3: 资产定价理论及其发展
+
 #### Section 2: 基本分析篇
 * Chapter 4: 证券投资的宏观经济分析
 * Chapter 5: 证券投资的产业分析
 * Chapter 6: 公司财务分析
 * Chapter 7: 公司价值分析
+
 #### Section 3: 技术分析篇
 * Chapter 8: 
 * Chapter 9: 
+
 #### Section 4: 组合管理篇
 * Chapter 10: 证券组合管理
 * Chapter 11: 风险资产的定价与证券组合管理的应用
 * Chapter 12: 投资组合管理业绩评价模型
 * Chapter 13: 债券组合管理
+
 #### Section 5: 量化分析与交易策略篇
 * Chapter 14: 量化投资、大数据分析与智能投顾
 * Chapter 15: 简单量化交易策略
